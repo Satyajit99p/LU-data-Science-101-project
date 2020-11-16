@@ -5,7 +5,7 @@ Dataset’s columns Description:
 
 groupId - Integer ID to identify a group within a match. If the same group of players plays in different
 matches, they will have a different groupId each time.
-matchId - Integer ID to identify match. There are no matches that are in both the training and testing set.
+matchId - Integer ID to identify match. There are no matches that are in both the training and testing set .
 assists - Number of enemy players this player damaged that were killed by teammates.
 boosts - Number of boost items used.
 damageDealt - Total damage dealt. Note: Self inflicted damage is subtracted.
